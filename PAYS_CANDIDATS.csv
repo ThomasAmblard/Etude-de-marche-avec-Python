@@ -1,0 +1,17 @@
+Zone,Importations ( en milliers de tonnes),Pertes ( en milliers de tonnes),Score stabilité politique,Balance commercial ( en millier de tonnes),P.I.B par habitants ( Valeur en dollars américains en termes nominaux),Numéro_de_cluster_pour_la_classification_hiérarchique,Cluster k-means
+Japon,1069.0,56.0,1.11,-1059.0,38672.407739920855,1,6
+Mexique,972.0,161.0,-0.8,-963.0,9287.841557324951,1,6
+Arabie saoudite,722.0,0.0,-0.64,-712.0,20802.464927773868,1,1
+Afrique du Sud,514.0,83.0,-0.28,-451.0,6121.8765721782775,1,1
+Royaume-Uni de Grande-Bretagne et d'Irlande du Nord,779.0,0.0,0.39,-420.0,40448.36586183559,1,1
+Émirats arabes unis,433.0,0.0,0.62,-339.0,40644.804043404576,1,1
+Chine - RAS de Hong-Kong,907.0,0.0,0.83,-244.0,46705.02781289957,1,1
+Allemagne,842.0,0.0,0.59,-196.0,44651.82910208204,1,1
+"Chine, Taiwan Province de",161.0,0.0,0.86,-153.0,48786.5744078049,4,3
+Koweït,137.0,0.0,-0.05,-133.0,29754.636332101363,4,2
+République de Corée,137.0,0.0,0.39,-131.0,31781.123319688868,4,2
+Suède,84.0,0.0,0.98,-61.0,54621.34582422672,4,3
+Suisse,51.0,0.0,1.26,-47.0,83313.01399180965,4,3
+Autriche,110.0,0.0,1.05,-32.0,47309.0516373143,4,3
+Bahamas,24.0,0.0,0.99,-24.0,32376.129779570667,4,2
+Chine - RAS de Macao,23.0,0.0,1.43,-23.0,81043.96865488247,4,3
