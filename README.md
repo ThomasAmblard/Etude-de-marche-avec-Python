@@ -1,9 +1,9 @@
 
-# Titre : Analyse de groupements de pays pour exporter des poulets : une étude de marché internationale
+# Titre : Analyse de groupements de pays pour exporter de la viande de volaille : une étude de marché internationale
 
 ## Missions effectuées durant ce projet :
 
-- Analyse des données de la FAO pour identifier des groupes de pays cibles pour exporter des poulets
+- Analyse des données de la FAO pour identifier des groupes de pays cibles pour exporter de la viande de volaille.
 - Utilisation de la classification ascendante hiérarchique et de la méthode des k-means pour effectuer un clustering simple
 - Réalisation d'une ACP pour visualiser les résultats de l'analyse
 - Préparation, nettoyage et analyse exploratoire des données
